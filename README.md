@@ -12,7 +12,8 @@ Sample website with plenty of files for demos
 
 ## How to Contribute
 
-Clone the repo bro
+Clone the repo bro.
+PLease fork the repository and then issue Pull requests for review.
 
 ### Copyright
 
