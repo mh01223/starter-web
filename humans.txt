@@ -1,0 +1,6 @@
+#humans.txt.org/
+#The humand responsible & technology colophon
+
+#TEAM
+
+Jason taylor jason@git.training
